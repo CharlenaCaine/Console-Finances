@@ -20,3 +20,7 @@ When you open the index.html file and navigate to the console it will look like 
 
 ![image](https://user-images.githubusercontent.com/119806338/211679658-ff067964-5393-4a02-b0da-40cc7202aa41.png)
 
+Here is a link to the deployed project:
+
+ https://charlenacaine.github.io/Console-Finances/ 
+
